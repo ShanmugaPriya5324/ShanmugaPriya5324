@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shanmuga Priya</h1>
+<h3 align="center">Aspiring Biomedical Engineer | Tech Explorer | Curious Soul</h3>
 
-<!--
-**ShanmugaPriya5324/ShanmugaPriya5324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently pursuing **Biomedical Engineering at Anna University, CEG**   
+- 💡 Exploring **Cybersecurity**, **AI in Healthcare**, and **Quantum Computing**   
+- 🧠 Interested in **Biomedical Instrumentation**, **Reverse Ageing**, and **Space Health**  
+- 💬 Ask me about: Circuits, Sensors, Electronics and Wireless Technologies
+- ⚡ Fun fact: I’m always Curious 💪 and a True Lover of Physics 😁  
+
+---
+
+### 🛠️ Tools & Tech Stack
+
+- 💻 **Languages:** C, C++, Python, MATLAB (Basics)  
+- 🧪 **Tools:** Git, GitHub, Multisim, VS Code  
+- 🌐 **Exploring:** Web dev, Qiskit, Ethical Hacking  
+- 📊 **Softwares:** MS Word, Powerpoint, Excel, Canva, Adobe Illustrator and Premire Pro (for documentation/visuals)
+
+---
+
+### 🏆 Involved In
+
+- 💃 **Joint Secretary and Head of Contents and Documentation** - CEG Spartanz
+- 👩‍💻 **Coordinator at Events Domain** - CEG Tech Forum (CTF)
+- 📝 **Coordinator in Marketing and Workshops Domain** - Bio Medical Engineers Association (BMEA)
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 LinkedIn: www.linkedin.com/in/shanmuga-priya-jayakumar-b5997128a
+- ✉️ spjbrixton@gmail.com
+- 💬 Always up for tech talks & ideas over coffee ☕
+
+---
+
+### 📌 Quote I Believe In
+> "Think beyond boundaries. Learn beyond books."
+
+---
