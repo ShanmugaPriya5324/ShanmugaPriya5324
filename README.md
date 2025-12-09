@@ -6,7 +6,7 @@
 ### About Me
 
 - I'm currently pursuing **Biomedical Engineering at Anna University, CEG**   
-- Exploring **Cybersecurity**, **AI in Healthcare**, and **Quantum Computing**   
+- Exploring **Cybersecurity**, **AI in Healthcare**, **Image Processing**, and **Quantum Computing**   
 - Interested in **Biomedical Instrumentation**, **Reverse Ageing**, and **Space Health**  
 - Ask me about: Circuits, Sensors, Electronics and Wireless Technologies
 - Fun fact: I’m always Curious 💪 and a True Lover of Physics 😁  
