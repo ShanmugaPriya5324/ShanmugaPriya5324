@@ -24,9 +24,9 @@
 
 ### Involved In
 
-- **Joint Secretary and Head of Contents and Documentation** - CEG Spartanz
+- **Joint Secretary - Head of Contents and Documentation & Production and Design Manager** - CEG Spartanz
 - **Coordinator at Events Domain** - CEG Tech Forum (CTF)
-- **Coordinator in Marketing and Workshops Domain** - Bio Medical Engineers Association (BMEA)
+- **Coordinator in Design, Media, Marketing and Workshops Domain** - Bio Medical Engineers Association (BMEA)
 
 ---
 
